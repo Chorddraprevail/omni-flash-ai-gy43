@@ -1,4 +1,4 @@
-# 
+# Élite Omni Flash scripts. Con sincronización en la nube y grafos de conocimiento — optimizado para el máximo rendimiento y eficiencia.
 
 
 
